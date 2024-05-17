@@ -1,0 +1,10 @@
+﻿global using Azure.Identity;
+global using Microsoft.Extensions.Configuration.AzureAppConfiguration;
+global using Microsoft.Extensions.DependencyInjection.Extensions;
+global using Microsoft.Extensions.Options;
+global using MyWebApi.Abstractions;
+global using MyWebApi.Extensions;
+global using MyWebApi.Models;
+global using MyWebApi.Services;
+global using System.ComponentModel.DataAnnotations;
+global using System.Reflection;
